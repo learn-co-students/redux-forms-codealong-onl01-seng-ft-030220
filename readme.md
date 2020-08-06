@@ -7,6 +7,8 @@ using the Redux pattern.
 
 ## Objectives
 
+
+
 By the end of this lesson, you will be able to:
 
 - Take user input from our **React** application and send information to **Redux**
@@ -559,4 +561,3 @@ There's a lot of typing in this section, but three main steps.
   and concatenated the payload into our array of todos.
 
 [prototype chain]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
-
